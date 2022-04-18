@@ -1,5 +1,3 @@
-<img src='https://cdn.giraugh.xyz/giraffe-trect.png' style='width: 20%'>
-
 ### 🦒 Ewan Breakey
 
 Hey there! I'm Ewan. <br/>
