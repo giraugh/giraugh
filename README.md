@@ -1,7 +1,9 @@
 ### 🦒 Ewan Breakey
 
-Hey there! I'm Ewan. <br/>
-I'm a computer science student from Melbourne Australia.
+> Hey there! I'm Ewan. <br/>
+> I'm a software engineer from Melbourne Australia.
 
-I also tutor in programming, work web dev contracts and volunteer as Vice President of the CSIT society at RMIT.<br/>
-Check out my [portfolio](http://ewanb.me)!
+I'm available for hire as a web developer, designer or tutor.<br />
+For more info or to see my past work, check out my [portfolio](https://ewanb.me)!
+
+Thanks for stopping by :D
